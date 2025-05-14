@@ -5,7 +5,7 @@
 
 https://angxiaoyue.github.io/
 
-I am a second-year Ph.D. student at the Gaoling School of Artificial Intelligence, Renmin University of China. My research interests focus on Machine Learning driven by Geometry Algebra, AI4Science, and Large Language Models. 🌱 
+I am a second-year Ph.D. student at the Gaoling School of Artificial Intelligence, Renmin University of China. My research interests focus on Machine Learning driven by Geometric Algebra, AI4Science, and Large Language Models. 🌱 
 
 <div align="left">
   <img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngxiaoYue&layout=compact&langs_count=8" align="center" />
